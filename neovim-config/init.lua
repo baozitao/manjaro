@@ -2,6 +2,7 @@ require('basic')
 -- 快捷键映射
 require('keybindings')
 -- Packer 插件管理
+
 require('plugins')
 -- 主题设置 （新增）
 require('colorscheme')
@@ -16,6 +17,7 @@ require('plugin-config.nvim-treesitter') -- （新增）
 -- 内置LSP (新增)
 require('lsp.setup')
 require('lsp.cmp') --  (新增)
--- 新增
+require('lsp.ui') -- 新增
 require('lsp.formatter')
-require("plugin-config.indent-blankline")
+require('plugin-config.indent-blankline')
+require('plugin-config.indent-blankline')

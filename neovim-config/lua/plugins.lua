@@ -47,9 +47,11 @@ packer.startup({
     use('hrsh7th/cmp-buffer') -- { name = 'buffer' },
     use('hrsh7th/cmp-path') -- { name = 'path' }
     use('hrsh7th/cmp-cmdline') -- { name = 'cmdline' }
-
     -- 常见编程语言代码段
     use('rafamadriz/friendly-snippets')
+    -- ui (新增)
+    use('onsails/lspkind-nvim')
+    use('tami5/lspsaga.nvim') -- 新增
   end,
   config = {
     display = {
