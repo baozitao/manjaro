@@ -1,0 +1,12 @@
+startup_mode: Fullscreen
+dynamic_title: true
+font:
+  size: 16 
+decorations: transparent
+window:
+  opacity: 0.8
+  padding:
+    x: 10
+    y: 10
+mouse_bindings:
+ - { mouse: Right , action: PasteSelection }

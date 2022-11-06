@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new test.md"
+                "file": "README.md"
               }
             }
           }
@@ -137,5 +137,9 @@
     "collapsed": true
   },
   "active": "eb82426a54972fc1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "new test.md",
+    "deb格式转能够在manjaro安装的格式.md",
+    "manjaro 安装过程要点记录.md"
+  ]
 }
