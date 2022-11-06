@@ -14,4 +14,8 @@
 - kmix
 - xorg
 - fcxit5
+- nmtui
+- zsh
+- powerlevel10k
+- 
 
