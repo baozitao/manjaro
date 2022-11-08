@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "5004a8fbb3a461a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "这个字体还是比较好看.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c818231ef89d52ef",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无法连接蓝牙耳机.md",
+                "file": "这个字体还是比较好看.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "无法连接蓝牙耳机.md",
+                "file": "这个字体还是比较好看.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "无法连接蓝牙耳机.md"
+                "file": "这个字体还是比较好看.md"
               }
             }
           }
@@ -221,8 +233,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3aa0b2a24b71c98",
+  "active": "5004a8fbb3a461a6",
   "lastOpenFiles": [
+    "无法连接蓝牙耳机.md",
     "manjaro驱动等都正常，就是没有声音.md",
     "百度网盘.md",
     "manjaro 安装clash.md",
@@ -231,7 +244,6 @@
     "deb格式转能够在manjaro安装的格式.md",
     "manjaro 安装过程要点记录.md",
     "README.md",
-    "安装alacritty + zsh + oh my zsh + powerlevelk.md",
-    "new test.md"
+    "安装alacritty + zsh + oh my zsh + powerlevelk.md"
   ]
 }
