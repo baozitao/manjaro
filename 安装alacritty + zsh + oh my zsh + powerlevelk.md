@@ -31,3 +31,16 @@ echo $SHELL
 4.  Restart Zsh with `exec zsh`.
 5.  Type `p10k configure` if the configuration wizard doesn't start automatically.
 
+# 一旦修改了zsh作为shell,则nvim默认修改需要在~/.zshrc中
+```
+nvim ~/.zshrc
+
+## 增加
+alias vim='nvim'
+alias vi='nvim'
+```
+
+然后
+```
+source ~/.zshrc
+```
