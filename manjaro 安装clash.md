@@ -19,3 +19,4 @@ docker run -p 1234:80 -d --name yacd --restart=unless-stopped haishanh/yacd
 export http_proxy=http://127.0.0.1:7890
 export https_proxy=http://127.0.0.1:7890
 ```
+6.重启（可选）
