@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装alacritty + zsh + oh my zsh + powerlevelk.md",
+                "file": "无法连接蓝牙耳机.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安装alacritty + zsh + oh my zsh + powerlevelk.md",
+                "file": "无法连接蓝牙耳机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安装alacritty + zsh + oh my zsh + powerlevelk.md",
+                "file": "无法连接蓝牙耳机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安装alacritty + zsh + oh my zsh + powerlevelk.md"
+                "file": "无法连接蓝牙耳机.md"
               }
             }
           }
@@ -247,14 +247,14 @@
   },
   "active": "977e45fd58371099",
   "lastOpenFiles": [
-    "Untitled.md",
+    "安装neovim时.md",
     "安装alacritty + zsh + oh my zsh + powerlevelk.md",
+    "Untitled.md",
     "这个字体还是比较好看.md",
     "无法连接蓝牙耳机.md",
     "manjaro驱动等都正常，就是没有声音.md",
     "百度网盘.md",
     "manjaro 安装clash.md",
-    "安装neovim时.md",
     "修改默认浏览器.md",
     "deb格式转能够在manjaro安装的格式.md"
   ]
