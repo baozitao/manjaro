@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "129c6fae486a19c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vmware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c818231ef89d52ef",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4168b5e00e28461e",
@@ -195,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "这个字体还是比较好看.md",
+                "file": "vmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "这个字体还是比较好看.md",
+                "file": "vmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "这个字体还是比较好看.md"
+                "file": "vmware.md"
               }
             }
           }
@@ -246,13 +257,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "977e45fd58371099",
+  "active": "129c6fae486a19c4",
   "lastOpenFiles": [
+    "这个字体还是比较好看.md",
     "无法连接蓝牙耳机.md",
     "安装neovim时.md",
     "安装alacritty + zsh + oh my zsh + powerlevelk.md",
-    "Untitled.md",
-    "这个字体还是比较好看.md",
+    "vmware.md",
     "manjaro驱动等都正常，就是没有声音.md",
     "百度网盘.md",
     "manjaro 安装clash.md",

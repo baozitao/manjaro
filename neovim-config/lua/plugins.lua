@@ -52,6 +52,7 @@ packer.startup({
     -- ui (新增)
     use('onsails/lspkind-nvim')
     use('tami5/lspsaga.nvim') -- 新增
+    use('junegunn/fzf.vim') -- 新增
   end,
   config = {
     display = {
