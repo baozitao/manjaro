@@ -53,6 +53,11 @@ packer.startup({
     use('onsails/lspkind-nvim')
     use('tami5/lspsaga.nvim') -- 新增
     use('junegunn/fzf.vim') -- 新增
+    --    use('iamcco/markdown-preview.nvim')
+    use({
+      "iamcco/markdown-preview.nvim",
+      run = function() vim.fn["mkdp#util#install"]() end,
+    })
   end,
   config = {
     display = {

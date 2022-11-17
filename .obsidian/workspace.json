@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vmware.md",
+                "file": "manjaro 安装clash.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ec9791e3111475d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fzf无法搜索隐藏文件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vmware.md",
+                "file": "fzf无法搜索隐藏文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vmware.md",
+                "file": "fzf无法搜索隐藏文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vmware.md"
+                "file": "fzf无法搜索隐藏文件.md"
               }
             }
           }
@@ -257,17 +269,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "129c6fae486a19c4",
+  "active": "9ec9791e3111475d",
   "lastOpenFiles": [
+    "manjaro 安装过程要点记录.md",
+    "vmware.md",
+    "README.md",
     "这个字体还是比较好看.md",
     "无法连接蓝牙耳机.md",
     "安装neovim时.md",
     "安装alacritty + zsh + oh my zsh + powerlevelk.md",
-    "vmware.md",
     "manjaro驱动等都正常，就是没有声音.md",
     "百度网盘.md",
-    "manjaro 安装clash.md",
-    "修改默认浏览器.md",
-    "deb格式转能够在manjaro安装的格式.md"
+    "manjaro 安装clash.md"
   ]
 }
