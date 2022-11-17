@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5631c88a17984b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ranger和fzf配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fzf无法搜索隐藏文件.md",
+                "file": "ranger和fzf配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fzf无法搜索隐藏文件.md",
+                "file": "ranger和fzf配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fzf无法搜索隐藏文件.md"
+                "file": "ranger和fzf配置.md"
               }
             }
           }
@@ -269,8 +281,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ec9791e3111475d",
+  "active": "5631c88a17984b93",
   "lastOpenFiles": [
+    "fzf无法搜索隐藏文件.md",
     "manjaro 安装过程要点记录.md",
     "vmware.md",
     "README.md",
@@ -279,7 +292,6 @@
     "安装neovim时.md",
     "安装alacritty + zsh + oh my zsh + powerlevelk.md",
     "manjaro驱动等都正常，就是没有声音.md",
-    "百度网盘.md",
-    "manjaro 安装clash.md"
+    "百度网盘.md"
   ]
 }
